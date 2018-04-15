@@ -17,4 +17,4 @@ df %>%
   facet_wrap(~position)
 
 
-ggsave("plot.png")  
+ggsave("week1/plot.png")  
